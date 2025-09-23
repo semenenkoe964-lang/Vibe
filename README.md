@@ -1,5 +1,6 @@
 # Algo
 ## Я учусь на 1 курсе УРФУ
 ## Мои навыки:
- * Python
+* Python
+* Data Analis
 
