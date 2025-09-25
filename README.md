@@ -1,5 +1,6 @@
 # Семененко Егор
 ## Я учусь на 1 курсе УРФУ
+![](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 ## Мои навыки:
 * Python
 * Data Analis
