@@ -1,7 +1,7 @@
 # Семененко Егор
 ## Я учусь на 1 курсе УРФУ
 ![](https://github.com/semenenkoe964-lang/Vibe/blob/main/OaRJ1Ykw8G3PvCRZZ4GMjhErM1qQ7GzP.jpeg)
-## Мои навыки:
+## :desktop_computer: Мои навыки:
 * Python
 * Data Analis
 * C++
