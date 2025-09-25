@@ -1,6 +1,6 @@
 # Семененко Егор
-## :bulb: Обо мне
-### Я студент первого курса УРФУ, учусь на программе АИИ.
+## :bulb: Обо мне:
+#### Я студент первого курса УРФУ, учусь на программе АИИ.
 ![](https://github.com/semenenkoe964-lang/Vibe/blob/main/OaRJ1Ykw8G3PvCRZZ4GMjhErM1qQ7GzP.jpeg)
 ## :desktop_computer: Мои навыки:
 * Python
